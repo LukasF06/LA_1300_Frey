@@ -1,0 +1,16 @@
+C:\BBBaden\Lernatelier 2. Jahr\LA_1300\LA_1300\bin\Debug\LA_1300.exe.config
+C:\BBBaden\Lernatelier 2. Jahr\LA_1300\LA_1300\bin\Debug\LA_1300.exe
+C:\BBBaden\Lernatelier 2. Jahr\LA_1300\LA_1300\bin\Debug\LA_1300.pdb
+C:\BBBaden\Lernatelier 2. Jahr\LA_1300\LA_1300\obj\Debug\LA_1300.csproj.AssemblyReference.cache
+C:\BBBaden\Lernatelier 2. Jahr\LA_1300\LA_1300\obj\Debug\LA_1300.csproj.SuggestedBindingRedirects.cache
+C:\BBBaden\Lernatelier 2. Jahr\LA_1300\LA_1300\obj\Debug\LA_1300.csproj.CoreCompileInputs.cache
+C:\BBBaden\Lernatelier 2. Jahr\LA_1300\LA_1300\obj\Debug\LA_1300.exe
+C:\BBBaden\Lernatelier 2. Jahr\LA_1300\LA_1300\obj\Debug\LA_1300.pdb
+C:\BBBaden\Lernatelier 2. Jahr\LA1300\LA_1300\LA_1300\bin\Debug\LA_1300.exe.config
+C:\BBBaden\Lernatelier 2. Jahr\LA1300\LA_1300\LA_1300\bin\Debug\LA_1300.exe
+C:\BBBaden\Lernatelier 2. Jahr\LA1300\LA_1300\LA_1300\bin\Debug\LA_1300.pdb
+C:\BBBaden\Lernatelier 2. Jahr\LA1300\LA_1300\LA_1300\obj\Debug\LA_1300.csproj.AssemblyReference.cache
+C:\BBBaden\Lernatelier 2. Jahr\LA1300\LA_1300\LA_1300\obj\Debug\LA_1300.csproj.SuggestedBindingRedirects.cache
+C:\BBBaden\Lernatelier 2. Jahr\LA1300\LA_1300\LA_1300\obj\Debug\LA_1300.csproj.CoreCompileInputs.cache
+C:\BBBaden\Lernatelier 2. Jahr\LA1300\LA_1300\LA_1300\obj\Debug\LA_1300.exe
+C:\BBBaden\Lernatelier 2. Jahr\LA1300\LA_1300\LA_1300\obj\Debug\LA_1300.pdb
